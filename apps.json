@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "name": "Z Flash",
+      "version": "1.0",
+      "description": "مصباح وفلاش SOS",
+      "category": "أدوات",
+      "download_url": "PUT_ZFLASH_APK_URL_HERE"
+    },
+    {
+      "name": "ZGameBoost",
+      "version": "2.0",
+      "description": "أدوات مساعدة للألعاب",
+      "category": "أدوات",
+      "download_url": "PUT_ZGAMEBOOST_APK_URL_HERE"
+    }
+  ]
+}
