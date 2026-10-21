@@ -1,3 +1,4 @@
+
 {
   "apps": [
     {
@@ -5,7 +6,7 @@
       "version": "1.0",
       "description": "مصباح وفلاش SOS",
       "category": "أدوات",
-      "download_url": "PUT_ZFLASH_APK_URL_HERE"
+      "download_url": "https://www.mediafire.com/file/rpbscdbikihcn6x/Z_flash.apk/file"
     },
     {
       "name": "ZGameBoost",
