@@ -1,34 +1,32 @@
-
 {
-  "apps": [
-    {
-      "name": "Z Flash",
-      "version": "1.0",
-      "description": "مصباح وفلاش SOS",
-      "category": "أدوات",
-      "download_url": "https://www.mediafire.com/file/rpbscdbikihcn6x/Z_flash.apk/file"
-    },
-    {
-      "name": "ZGameBoost",
-      "version": "2.0",
-      "description": "أدوات مساعدة للألعاب",
-      "category": "أدوات",
-      "download_url": ""
-    },
-    {
-      "name": "Mini Militia - Funny AK47",
-      "version": "Mod",
-      "description": "لعبة Mini Militia بنسخة Funny AK47",
-      "category": "ألعاب",
-      "download_url": "https://github.com/Zaki-apk/zstar-apps-data/releases/download/v1.0/MiniMilitia-FunnyAK47.apk"
-    }
-  ]
-}،
+"apps": [
 {
-  "name": "translate.dz",
-  "version": "1.0",
-  "description": "ترجمة بين العربية والإنجليزية والفرنسية عبر الإنترنت",
-  "category": "أدوات",
-  "download_url": "https://www.mediafire.com/file/rcitxyk9khm5gt8/translate.dz.apk/file"
+"name": "Z Flash",
+"version": "1.0",
+"description": "مصباح وفلاش SOS",
+"category": "أدوات",
+"download_url": "https://www.mediafire.com/file/rpbscdbikihcn6x/Z_flash.apk/file"
+},
+{
+"name": "ZGameBoost",
+"version": "2.0",
+"description": "أدوات مساعدة للألعاب",
+"category": "أدوات",
+"download_url": ""
+},
+{
+"name": "Mini Militia - Funny AK47",
+"version": "Mod",
+"description": "لعبة Mini Militia بنسخة Funny AK47",
+"category": "ألعاب",
+"download_url": "https://github.com/Zaki-apk/zstar-apps-data/releases/download/v1.0/MiniMilitia-FunnyAK47.apk"
+},
+{
+"name": "translate.dz",
+"version": "1.0",
+"description": "ترجمة بين العربية والإنجليزية والفرنسية عبر الإنترنت",
+"category": "أدوات",
+"download_url": "https://www.mediafire.com/file/rcitxyk9khm5gt8/translate.dz.apk/file"
 }
-
+]
+}
