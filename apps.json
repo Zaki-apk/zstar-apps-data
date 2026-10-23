@@ -30,10 +30,13 @@
 }
 ,
 {
+  
+{
   "name": "GameBoosterPro",
   "version": "6.0",
   "description": "أداة لتحسين تجربة الألعاب على أندرويد",
   "category": "أدوات",
   "download_url": "https://www.mediafire.com/file/9z7mf4084zk4x3z/GameBoosterPro.apk/file"
+}
 ]
 }
