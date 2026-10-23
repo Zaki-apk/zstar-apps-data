@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "title": "Zstar Demo",
+    "genre": "خيال علمي",
+    "year": "2026",
+    "description": "فيلم تجريبي لاختبار كتالوج Zstar Movies.",
+    "videoUrl": "https://example.com/demo.mp4"
+  }
+]
