@@ -1,9 +1,10 @@
 [
   {
-    "title": "Zstar Demo",
-    "genre": "خيال علمي",
-    "year": "2026",
-    "description": "فيلم تجريبي لاختبار كتالوج Zstar Movies.",
-    "videoUrl": "https://example.com/demo.mp4"
+    "title": "خارج على القانون",
+    "genre": "أكشن وجريمة",
+    "year": "2008",
+    "description": "فيلم مصري من أفلام الأكشن والجريمة.",
+    "videoUrl": "",
+    "watchUrl": "https://shahid.mbc.net/ar/movies/Khareg-ala-el-qanoun/movie-85044"
   }
 ]
